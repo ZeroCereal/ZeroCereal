@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZeroCereal
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,HTML and css
 - 💞️ I’m looking to collaborate on NOTHING!!!
 - 📫 How to reach me roccoswem@gmail.com
